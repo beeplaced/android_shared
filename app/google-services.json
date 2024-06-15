@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "830800874675",
+    "project_id": "mycap-d9f44",
+    "storage_bucket": "mycap-d9f44.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:830800874675:android:99c334be2b44d0777534c6",
+        "android_client_info": {
+          "package_name": "com.example.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjfcyJeZkY26A9lnJn7LNy9Atoc8m2L30"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
